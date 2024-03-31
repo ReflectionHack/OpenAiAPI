@@ -1,0 +1,5 @@
+spring.application.name=reflection
+
+spring.security.user.name=user
+spring.security.user.password=1234
+spring.ai.openai.api-key=${API_KEY}
